@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UACE,iBACF,CAEA,qBACE,WACF","file":"main.bcc6148c.chunk.css","sourcesContent":["html, body {\r\n  overflow-x: hidden;\r\n}\r\n\r\nhtml, body, #root, .app {\r\n  height: 100%;\r\n}"]}
