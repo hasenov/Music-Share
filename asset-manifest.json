@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hasenov/Music-Share/static/css/main.bcc6148c.chunk.css",
-    "main.js": "/hasenov/Music-Share/static/js/main.888b6f46.chunk.js",
-    "main.js.map": "/hasenov/Music-Share/static/js/main.888b6f46.chunk.js.map",
-    "runtime-main.js": "/hasenov/Music-Share/static/js/runtime-main.7a74c256.js",
-    "runtime-main.js.map": "/hasenov/Music-Share/static/js/runtime-main.7a74c256.js.map",
-    "static/js/2.1c26c356.chunk.js": "/hasenov/Music-Share/static/js/2.1c26c356.chunk.js",
-    "static/js/2.1c26c356.chunk.js.map": "/hasenov/Music-Share/static/js/2.1c26c356.chunk.js.map",
-    "index.html": "/hasenov/Music-Share/index.html",
-    "precache-manifest.16f0a983adf3e270f3302d60e16408ed.js": "/hasenov/Music-Share/precache-manifest.16f0a983adf3e270f3302d60e16408ed.js",
-    "service-worker.js": "/hasenov/Music-Share/service-worker.js",
-    "static/css/main.bcc6148c.chunk.css.map": "/hasenov/Music-Share/static/css/main.bcc6148c.chunk.css.map",
-    "static/js/2.1c26c356.chunk.js.LICENSE.txt": "/hasenov/Music-Share/static/js/2.1c26c356.chunk.js.LICENSE.txt"
+    "main.css": "/Music-Share/static/css/main.bcc6148c.chunk.css",
+    "main.js": "/Music-Share/static/js/main.888b6f46.chunk.js",
+    "main.js.map": "/Music-Share/static/js/main.888b6f46.chunk.js.map",
+    "runtime-main.js": "/Music-Share/static/js/runtime-main.e8410de6.js",
+    "runtime-main.js.map": "/Music-Share/static/js/runtime-main.e8410de6.js.map",
+    "static/js/2.1c26c356.chunk.js": "/Music-Share/static/js/2.1c26c356.chunk.js",
+    "static/js/2.1c26c356.chunk.js.map": "/Music-Share/static/js/2.1c26c356.chunk.js.map",
+    "index.html": "/Music-Share/index.html",
+    "precache-manifest.24e2cee61d06b32e4f901a357c98c64a.js": "/Music-Share/precache-manifest.24e2cee61d06b32e4f901a357c98c64a.js",
+    "service-worker.js": "/Music-Share/service-worker.js",
+    "static/css/main.bcc6148c.chunk.css.map": "/Music-Share/static/css/main.bcc6148c.chunk.css.map",
+    "static/js/2.1c26c356.chunk.js.LICENSE.txt": "/Music-Share/static/js/2.1c26c356.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a74c256.js",
+    "static/js/runtime-main.e8410de6.js",
     "static/js/2.1c26c356.chunk.js",
     "static/css/main.bcc6148c.chunk.css",
     "static/js/main.888b6f46.chunk.js"
